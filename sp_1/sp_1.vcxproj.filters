@@ -39,10 +39,16 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="small.ico">
+    <Image Include="sp_1.ico">
       <Filter>Файлы ресурсов</Filter>
     </Image>
-    <Image Include="sp_1.ico">
+    <Image Include="..\sprite_witch.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\sprite.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="small.ico">
       <Filter>Файлы ресурсов</Filter>
     </Image>
   </ItemGroup>
